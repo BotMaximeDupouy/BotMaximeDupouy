@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A Data Analyst / Pharmacist</h3>
+<h3 align="center">A Data Scientist / Pharmacist</h3>
 
-- 🌱 I’m currently learning **Le Wagon Data Science**
+- 🌱 I’m currently in a work-study training with **OpenClassRoom** and **Synapse medicine <3** 
 
 - 📫 How to reach me **maxime_dupouy@hotmail.fr**
 
