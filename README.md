@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A Data Scientist / Pharmacist</h3>
+<h3 align="center">A Data Scientist & Pharmacist</h3>
 
 - 🌱 I’m currently in a work-study training with **OpenClassRoom** and **Synapse medicine <3** 
 
